@@ -1,0 +1,17 @@
+# Build products
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/Testing/
+*.o
+*.a
+*.dylib
+*.so
+*.app/
+
+# Local operating-system/editor files
+.DS_Store
+.AppleDouble
+*.swp
+*.swo
